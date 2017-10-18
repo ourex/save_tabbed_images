@@ -1,6 +1,6 @@
 ![save tabbed images icon](/dist/img/icon128.png)
 
-# Save Tabbed Images
+# Save Tabbed Images & webms
 
 A simple and easy-to-use chrome extension to download all images opened as tabs in one click.
 
