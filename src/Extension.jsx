@@ -19,7 +19,7 @@ class Extension extends React.Component {
     this.state = {
       imageList: [],
       downloadStatuses: {},
-      hideImageList: true,
+      hideImageList: false,
     };
 
     this.getCompletedTabs = this.getCompletedTabs.bind(this);
