@@ -2,11 +2,12 @@
 
 # Save Tabbed Images & webms
 
+A slightly modified (for educational purposed) version of:
 A simple and easy-to-use chrome extension to download all images opened as tabs in one click.
 
-[**Get the extension at the Chrome web store**](https://chrome.google.com/webstore/detail/save-tabbed-images/hhcoikfhkkadkgklepjkfgafmjoggefh).
-
 <img src="/assets/screenshots/demo.gif" alt="demo gif" width="500px" />
+
+## Taggsu
 
 ## Development
 
