@@ -3,7 +3,7 @@
   "description": "Save images currently opened in tabs.",
   "version": "0.6.0",
   "minimum_chrome_version": "16.0.884",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "permissions": [
     "downloads",
     "tabs",
